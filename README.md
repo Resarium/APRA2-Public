@@ -9,8 +9,8 @@ All original content in this repository is the property of the creators and is s
 
 
 
-A1 Lone Guardian
-Map layout: Resar
+A1 Lone Guardian<br>
+Map layout: Resar<br>
 Script: Rhosalth, Resar<br>
 
 A2 Eagle Dawn
