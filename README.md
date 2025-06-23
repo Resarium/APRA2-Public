@@ -2,7 +2,9 @@ This repository contains a fan-made, non-commercial campaign consisting of custo
 
 As of this time, the map files within this repository belong to APRA2 version 1.0, released on 20.06.2025 and are intended to function and/or be used with Mental Omega version 3.3.6
 
-All original content in this repository is the property of the creators and is shared for creative and educational use only. You are free to use, modify, and redistribute
+All original content in this repository is the property of the creators and is shared for creative and educational use only. You are free to use, modify, and redistribute this content non-commercially, provided you give appropriate credit to the original authors.
+
+Political world map images were created using the Mental Omega Loading Screen editor Photoshop document created by Nooze and provided by Speeder & The Mentalmeisters.
 
 
 ***APRA2 CREDITS***
