@@ -13,21 +13,26 @@ A1 Lone Guardian
 Map layout: Resar
 Script: Rhosalth, Resar
 
+
 A2 Eagle Dawn
 Map layout: Resar
 Script: Rhosalth, Resar
+
 
 A3 Hail to the Chief
 Map layout: Resar
 Script: Rhosalth, Resar
 
+
 A4 Last Chance
 Map layout: Resar
 Script: Rhosalth, Resar
 
+
 A5 Dark Night
 Map layout: BlackSnow
 Script: BlackSnow
+
 
 A6 Liberty
 Map layout: FCT
