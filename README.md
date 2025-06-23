@@ -9,67 +9,67 @@ All original content in this repository is the property of the creators and is s
 
 
 
-A1 Lone Guardian<br>
+a01.map - Allied Mission 1 - Lone Guardian<br>
 Map layout: Resar<br>
 Script: Rhosalth, Resar
 
-A2 Eagle Dawn<br>
+a02.map - Allied Mission 2 - Eagle Dawn<br>
 Map layout: Resar<br>
 Script: Rhosalth, Resar
 
-A3 Hail to the Chief<br>
+a03.map - Allied Mission 3 - Hail to the Chief<br>
 Map layout: Resar<br>
 Script: Rhosalth, Resar
 
-A4 Last Chance<br>
+a04.map - Allied Mission 4 - Last Chance<br>
 Map layout: Resar<br>
 Script: Rhosalth, Resar
 
-A5 Dark Night<br>
+a05.map - Allied Mission 5 - A5 Dark Night<br>
 Map layout: BlackSnow<br>
 Script: BlackSnow
 
-A6 Liberty<br>
+a06.map - Allied Mission 6 - Liberty<br>
 Map layout: FCT<br>
 Script: NuukTheNotable, Resar
 
-A7 Deep Sea<br>
+a07.map - Allied Mission 7 - Deep Sea<br>
 Map layout: FCT, Resar<br>
 Script: Resar, Rhosalth, NuukTheNotable, Dandywalken
 
-A8 Free Gateway<br>
+a08.map - Allied Mission 8 - Free Gateway<br>
 Map layout: FCT, Resar<br>
 Script: NuukTheNotable, Rhosalth, Resar
 
-A9 Sun Temple<br>
+a09.map - Allied Mission 9 - Sun Temple<br>
 Map layout: Red Crown, FCT, Resar<br>
 Script: Resar, NuukTheNotable
 
-A10 Mirage<br>
+a10.map - Allied Mission 10 - Mirage<br>
 Map layout: Resar, FCT<br>
 Script: Rhosalth, NuukTheNotable
 
-A11 Fallout<br>
+a11.map - Allied Mission 11 - Fallout<br>
 Map layout: FCT, Resar<br>
 Script: Resar, NuukTheNotable
 
-A12 Chrono Storm<br>
+a12.map - Allied Mission 12 - Chrono Storm<br>
 Map layout: FCT, Resar, Dandywalken, Uzef<br>
 Script: NuukTheNotable
 
-Allied Epilogue<br>
+allend1.map - Allied Epilogue<br>
 Map layout: Resar, NuukTheNotable<br>
 Script: Resar, NuukTheNotable
 
-Allied Covert-Op 1<br>
+aco01.map - Allied Covert-Op 1 - Widowmaker<br>
 Map layout: FCT, Rhosalth, Resar<br>
 Script: Rhosalth, Resar
 
-Allied Covert-Op 2<br>
+ac02.map - Allied Covert-Op 2 - Ephemera<br>
 Map layout: Resar, Psyminette<br>
 Script: Resar, NuukTheNotable
 
-Allied Covert-Op 3<br>
+ac03.map - Allied Covert-Op 3 - Chrono Abstraction<br>
 Map layout: FCT<br>
 Script: Resar, NuukTheNotable
 
@@ -77,67 +77,67 @@ Script: Resar, NuukTheNotable
 
 
 
-S1 Red Dawn<br>
+s01.map - Allied Mission 1 - Red Dawn<br>
 Map layout: Resar<br>
 Script: Rhosalth, Resar, NuukTheNotable
 
-S2 Hostile Shore<br>
+s02.map - Allied Mission 2 - Hostile Shore<br>
 Map layout: Resar<br>
 Script: Rhosalth, Resar
 
-S3 Big Apple<br>
+s03.map - Allied Mission 3 - Big Apple<br>
 Map layout: Resar<br>
 Script: Rhosalth, Resar
 
-S4 Home Front<br>
+s04.map - Allied Mission 4 - Home Front<br>
 Map layout: Resar<br>
 Script: Rhosalth, Resar
 
-S5 City of Lights<br>
+s05.map - Allied Mission 5 - City of Lights<br>
 Map layout: Resar<br>
 Script: Rhosalth, Resar
 
-S6 Sub-Divide<br>
+s06.map - Allied Mission 6 - Sub-Divide<br>
 Map layout: FCT, Resar<br>
 Script: NuukTheNotable, Rhosalth, Dandywalken
 
-S7 Chrono Defense<br>
+s07.map - Allied Mission 7 - Chrono Defense<br>
 Map layout: FCT<br>
 Script: Resar, Rhosalth
 
-S8 Desecration<br>
+s08.map - Allied Mission 8 - Desecration<br>
 Map layout: Uzef, NuukTheNotable, FCT<br>
 Script: Resar, NuukTheNotable
 
-S9 The Fox and the Hound<br>
+s09.map - Allied Mission 9 - The Fox and the Hound<br>
 Map layout: FCT, Resar, NuukTheNotable<br>
 Script: Resar, Rhosalth
 
-S10 Weathered Alliance<br>
+s10.map - Allied Mission 10 - Weathered Alliance<br>
 Map layout: FCT, Resar<br>
 Script: Rhosalth, Resar, NuukTheNotable
 
-S11 Red Revolution<br>
+s11.map - Allied Mission 11 - Red Revolution<br>
 Map layout: FCT, Uzef, Dandywalken<br>
 Script: Resar, NuukTheNotable
 
-S12 Polar Storm<br>
+s12.map - Allied Mission 12 - Polar Storm<br>
 Map layout: FCT, Resar, NuukTheNotable<br>
 Script: Resar, Rhosalth, NuukTheNotable
 
-Soviet Epilogue<br>
+sovend1.map - Soviet Epilogue<br>
 Map layout: Resar, NuukTheNotable<br>
 Script: Resar, NuukTheNotable
 
-Soviet Covert-Op 1<br>
+sc01.map - Soviet Covert-Op 1 - Enemy of My Enemy<br>
 Map layout: NuukTheNotable<br>
 Script: Rhosalth, NuukTheNotable, Resar
 
-Soviet Covert-Op 2<br>
+sc02.map - Soviet Covert-Op 2 - Supercollider<br>
 Map layout: Resar<br>
 Script: Resar
 
-Soviet Covert-Op 3<br>
+sc03.map - Soviet Covert-Op 3 - Tequila Sunset<br>
 Map layout: Resar, NuukTheNotable<br>
 Script: Resar, NuukTheNotable
 
