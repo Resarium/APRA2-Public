@@ -21,9 +21,8 @@ A3 Hail to the Chief<br>
 Map layout: Resar<br>
 Script: Rhosalth, Resar
 
-
-A4 Last Chance
-Map layout: Resar
+A4 Last Chance<br>
+Map layout: Resar<br>
 Script: Rhosalth, Resar
 
 A5 Dark Night<br>
