@@ -11,15 +11,14 @@ All original content in this repository is the property of the creators and is s
 
 A1 Lone Guardian<br>
 Map layout: Resar<br>
-Script: Rhosalth, Resar<br>
-
-A2 Eagle Dawn
-Map layout: Resar
 Script: Rhosalth, Resar
 
+A2 Eagle Dawn<br>
+Map layout: Resar<br>
+Script: Rhosalth, Resar
 
-A3 Hail to the Chief
-Map layout: Resar
+A3 Hail to the Chief<br>
+Map layout: Resar<br>
 Script: Rhosalth, Resar
 
 
@@ -27,122 +26,120 @@ A4 Last Chance
 Map layout: Resar
 Script: Rhosalth, Resar
 
-
-A5 Dark Night
-Map layout: BlackSnow
+A5 Dark Night<br>
+Map layout: BlackSnow<br>
 Script: BlackSnow
 
-
-A6 Liberty
-Map layout: FCT
+A6 Liberty<br>
+Map layout: FCT<br>
 Script: NuukTheNotable, Resar
 
-A7 Deep Sea
-Map layout: FCT, Resar
+A7 Deep Sea<br>
+Map layout: FCT, Resar<br>
 Script: Resar, Rhosalth, NuukTheNotable, Dandywalken
 
-A8 Free Gateway
-Map layout: FCT, Resar
+A8 Free Gateway<br>
+Map layout: FCT, Resar<br>
 Script: NuukTheNotable, Rhosalth, Resar
 
-A9 Sun Temple
-Map layout: Red Crown, FCT, Resar
+A9 Sun Temple<br>
+Map layout: Red Crown, FCT, Resar<br>
 Script: Resar, NuukTheNotable
 
-A10 Mirage
-Map layout: Resar, FCT
+A10 Mirage<br>
+Map layout: Resar, FCT<br>
 Script: Rhosalth, NuukTheNotable
 
-A11 Fallout
-Map layout: FCT, Resar
+A11 Fallout<br>
+Map layout: FCT, Resar<br>
 Script: Resar, NuukTheNotable
 
-A12 Chrono Storm
-Map layout: FCT, Resar, Dandywalken, Uzef
+A12 Chrono Storm<br>
+Map layout: FCT, Resar, Dandywalken, Uzef<br>
 Script: NuukTheNotable
 
-Allied Epilogue
-Map layout: Resar, NuukTheNotable
+Allied Epilogue<br>
+Map layout: Resar, NuukTheNotable<br>
 Script: Resar, NuukTheNotable
 
-Allied Covert-Op 1
-Map layout: FCT, Rhosalth, Resar
+Allied Covert-Op 1<br>
+Map layout: FCT, Rhosalth, Resar<br>
 Script: Rhosalth, Resar
 
-Allied Covert-Op 2
-Map layout: Resar, Psyminette
+Allied Covert-Op 2<br>
+Map layout: Resar, Psyminette<br>
 Script: Resar, NuukTheNotable
 
-Allied Covert-Op 3
-Map layout: FCT
+Allied Covert-Op 3<br>
+Map layout: FCT<br>
 Script: Resar, NuukTheNotable
 
 
 
 
 
-S1 Red Dawn
-Map layout: Resar
+S1 Red Dawn<br>
+Map layout: Resar<br>
 Script: Rhosalth, Resar, NuukTheNotable
 
-S2 Hostile Shore
-Map layout: Resar
+S2 Hostile Shore<br>
+Map layout: Resar<br>
 Script: Rhosalth, Resar
 
-S3 Big Apple
-Map layout: Resar
+S3 Big Apple<br>
+Map layout: Resar<br>
 Script: Rhosalth, Resar
 
-S4 Home Front
-Map layout: Resar
+S4 Home Front<br>
+Map layout: Resar<br>
 Script: Rhosalth, Resar
 
-S5 City of Lights
-Map layout: Resar
+S5 City of Lights<br>
+Map layout: Resar<br>
 Script: Rhosalth, Resar
 
-S6 Sub-Divide
-Map layout: FCT, Resar
+S6 Sub-Divide<br>
+Map layout: FCT, Resar<br>
 Script: NuukTheNotable, Rhosalth, Dandywalken
 
-S7 Chrono Defense
-Map layout: FCT
+S7 Chrono Defense<br>
+Map layout: FCT<br>
 Script: Resar, Rhosalth
 
-S8 Desecration
-Map layout: Uzef, NuukTheNotable, FCT
+S8 Desecration<br>
+Map layout: Uzef, NuukTheNotable, FCT<br>
 Script: Resar, NuukTheNotable
 
-S9 The Fox and the Hound
-Map layout: FCT, Resar, NuukTheNotable
+S9 The Fox and the Hound<br>
+Map layout: FCT, Resar, NuukTheNotable<br>
 Script: Resar, Rhosalth
 
-S10 Weathered Alliance
-Map layout: FCT, Resar
+S10 Weathered Alliance<br>
+Map layout: FCT, Resar<br>
 Script: Rhosalth, Resar, NuukTheNotable
 
-S11 Red Revolution
-Map layout: FCT, Uzef, Dandywalken
+S11 Red Revolution<br>
+Map layout: FCT, Uzef, Dandywalken<br>
 Script: Resar, NuukTheNotable
 
-S12 Polar Storm
-Map layout: FCT, Resar, NuukTheNotable
+S12 Polar Storm<br>
+Map layout: FCT, Resar, NuukTheNotable<br>
 Script: Resar, Rhosalth, NuukTheNotable
 
-Soviet Epilogue
-Map layout: Resar, NuukTheNotable
+Soviet Epilogue<br>
+Map layout: Resar, NuukTheNotable<br>
 Script: Resar, NuukTheNotable
 
-Soviet Covert-Op 1
-Map layout: NuukTheNotable
+Soviet Covert-Op 1<br>
+Map layout: NuukTheNotable<br>
 Script: Rhosalth, NuukTheNotable, Resar
 
-Soviet Covert-Op 2
-Map layout: Resar
+Soviet Covert-Op 2<br>
+Map layout: Resar<br>
 Script: Resar
 
-Soviet Covert-Op 3
-Map layout: Resar, NuukTheNotable
+Soviet Covert-Op 3<br>
+Map layout: Resar, NuukTheNotable<br>
 Script: Resar, NuukTheNotable
 
 Extensive changes and iterations to all missions: Resar, NuukTheNotable
