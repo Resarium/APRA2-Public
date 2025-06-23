@@ -141,8 +141,8 @@ Soviet Covert-Op 3<br>
 Map layout: Resar, NuukTheNotable<br>
 Script: Resar, NuukTheNotable
 
-Extensive changes and iterations to all missions: Resar, NuukTheNotable
-Extensive scripts review to all missions: Resar, Rhosalth
-Story: NuukTheNotable, ROKA, Uzef, GameMan
-Loading Screens: Resar, NuukTheNotable - based on the Mental Omega Loading screens template by Nooze
+Extensive changes and iterations to all missions: Resar, NuukTheNotable<br>
+Extensive scripts review to all missions: Resar, Rhosalth<br>
+Story: NuukTheNotable, ROKA, Uzef, GameMan<br>
+Loading Screens: Resar, NuukTheNotable - based on the Mental Omega Loading screens template by Nooze<br>
 Playtesters: GuardianGI, Raynor112, ROKA, Kekoulis, Psyminette, Alstar, TopazJuan, JackoDerp, StolenTech/Lylak
