@@ -148,3 +148,5 @@ Extensive scripts review to all missions: Resar, Rhosalth<br>
 Story: NuukTheNotable, ROKA, Uzef, GameMan<br>
 Loading Screens: Resar, NuukTheNotable - based on the Mental Omega Loading screens template by Nooze<br>
 Playtesters: GuardianGI, Raynor112, ROKA, Kekoulis, Psyminette, Alstar, TopazJuan, JackoDerp, StolenTech/Lylak
+
+The voxels for the Old Red Alert 1 Transport and MiG that were features in the APRA2 Trailer II are by Resarium
