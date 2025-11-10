@@ -79,51 +79,51 @@ Script: Resar, NuukTheNotable
 
 
 
-s01.map - Allied Mission 1 - Red Dawn<br>
+s01.map - Soviet Mission 1 - Red Dawn<br>
 Map layout: Resar<br>
 Script: Rhosalth, Resar, NuukTheNotable
 
-s02.map - Allied Mission 2 - Hostile Shore<br>
+s02.map - Soviet Mission 2 - Hostile Shore<br>
 Map layout: Resar<br>
 Script: Rhosalth, Resar
 
-s03.map - Allied Mission 3 - Big Apple<br>
+s03.map - Soviet Mission 3 - Big Apple<br>
 Map layout: Resar<br>
 Script: Rhosalth, Resar
 
-s04.map - Allied Mission 4 - Home Front<br>
+s04.map - Soviet Mission 4 - Home Front<br>
 Map layout: Resar<br>
 Script: Rhosalth, Resar
 
-s05.map - Allied Mission 5 - City of Lights<br>
+s05.map - Soviet Mission 5 - City of Lights<br>
 Map layout: Resar<br>
 Script: Rhosalth, Resar
 
-s06.map - Allied Mission 6 - Sub-Divide<br>
+s06.map - Soviet Mission 6 - Sub-Divide<br>
 Map layout: FCT, Resar<br>
 Script: NuukTheNotable, Rhosalth, Dandywalken
 
-s07.map - Allied Mission 7 - Chrono Defense<br>
+s07.map - Soviet Mission 7 - Chrono Defense<br>
 Map layout: FCT<br>
 Script: Resar, Rhosalth
 
-s08.map - Allied Mission 8 - Desecration<br>
+s08.map - Soviet Mission 8 - Desecration<br>
 Map layout: Uzef, NuukTheNotable, FCT<br>
 Script: Resar, NuukTheNotable
 
-s09.map - Allied Mission 9 - The Fox and the Hound<br>
+s09.map - Soviet Mission 9 - The Fox and the Hound<br>
 Map layout: FCT, Resar, NuukTheNotable<br>
 Script: Resar, Rhosalth
 
-s10.map - Allied Mission 10 - Weathered Alliance<br>
+s10.map - Soviet Mission 10 - Weathered Alliance<br>
 Map layout: FCT, Resar<br>
 Script: Rhosalth, Resar, NuukTheNotable
 
-s11.map - Allied Mission 11 - Red Revolution<br>
+s11.map - Soviet Mission 11 - Red Revolution<br>
 Map layout: FCT, Uzef, Dandywalken<br>
 Script: Resar, NuukTheNotable
 
-s12.map - Allied Mission 12 - Polar Storm<br>
+s12.map - Soviet Mission 12 - Polar Storm<br>
 Map layout: FCT, Resar, NuukTheNotable<br>
 Script: Resar, Rhosalth, NuukTheNotable
 
